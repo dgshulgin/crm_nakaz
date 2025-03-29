@@ -31,4 +31,5 @@ nav:
     - Контакты: users_guide/contacts/lorem.md
   - Руководство администратора: admin_guide/lorem.md
 
-theme: material
+theme: 
+  name: material
