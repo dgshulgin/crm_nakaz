@@ -1,25 +1,27 @@
 markdown_extensions: 
   - attr_list
+use_directory_urls: false
 site_name: CRM Наказ
 nav:
   - Быстрый старт:
     - Добавить новое Обращение: howto/leads/new_lead.md
-    - Внести изменения в Cделку: howto/leads/edit_lead.md
-    - Авторизация Сделки: howto/leads/authorize_lead.md
-    - Отчет по Сделке: howto/leads/report_lead.md
-    - Управление списком Сделок: howto/leads/filter_leads.md
-    - Закрытие Сделки: howto/leads/close_deal.md
+    # - Внести изменения в Cделку: howto/leads/edit_lead.md
+    # - Авторизация Сделки: howto/leads/authorize_lead.md
+    # - Отчет по Сделке: howto/leads/report_lead.md
+    # - Управление списком Сделок: howto/leads/filter_leads.md
+    # - Закрытие Сделки: howto/leads/close_deal.md
     - Добавить новую Компанию: howto/organizations/new_org.md
-    - Изменить информацию о Компании: howto/organizations/edit_org.md
-    - Отчет по Компании: howto/organizations/report_org.md
-    - Управление списком Компаний: howto/organizations/filter_orgs.md
+    # - Изменить информацию о Компании: howto/organizations/edit_org.md
+    # - Отчет по Компании: howto/organizations/report_org.md
+    # - Управление списком Компаний: howto/organizations/filter_orgs.md
     - Добавить новый Контакт: howto/contacts/new_contact.md
-    - Изменить Контакт: howto/contacts/edit_contact.md
-    - Заполнить Спецификацию к Сделке: howto/specs/new_spec.md
-    - Изменить Спецификацию в Сделке: howto/specs/edit_spec.md
-    - Создать отчет в Эксель: howto/others/report_xlsx.md
-    - Быстрый поиск: howto/others/fast_search.md
-    - Сообщить об ошибке: howto/others/report_err.md
+    # - Изменить Контакт: howto/contacts/edit_contact.md
+    # - Заполнить Спецификацию к Сделке: howto/specs/new_spec.md
+    # - Изменить Спецификацию в Сделке: howto/specs/edit_spec.md
+    # - Создать отчет в Эксель: howto/others/report_xlsx.md
+    # - Быстрый поиск: howto/others/fast_search.md
+    # - Сообщить об ошибке: howto/others/report_err.md
+    - Добавить новый Товар: howto/products/new_product.md
   - Руководство Пользователя:
     - Пользовательский интерфейс:
       - Главное окно: users_guide/ui/lorem.md
