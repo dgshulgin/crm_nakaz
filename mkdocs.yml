@@ -1,5 +1,5 @@
-markdown_extensions: 
-  - attr_list
+#markdown_extensions: 
+#  - attr_list
 use_directory_urls: false
 site_name: CRM Наказ
 nav:
