@@ -4,7 +4,7 @@
 Перейдите на страницу "Компании", для этого в левой части экрана укажите мышью на значок  <img src="../../images/main_menu/pict_company_short.png" style="width: 20px; height: 20px; vertical-align: middle;"/>  и выберите  <img src="../../images/main_menu/pict_company_full.png" style="width: 100px; height: 20px; vertical-align: middle;"/>  в Главном меню приложения.
 </p>
 
----
+<hr>
 
 <p align="justify">
 Нажмите кнопку "Создать компанию" на панели инструментов. 
@@ -21,10 +21,14 @@
 </p>
 
 
-<table style="border: none;">
+<table style="table-layout:fixed;width: 100%;border: none;">
+    <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+    </colgroup>
 <tr>
     <td style="vertical-align: middle;">
-    <img src="../../images/company_page/company_name.png" style="max-width:100%;max-height:100%; vertical-align: middle;"/>
+    <img src="../../images/company_page/company_name.png" >
     </td>
     <td style="vertical-align: middle;">
     <p align="justify">Введите название компании в свободной форме</p>
