@@ -36,4 +36,5 @@ nav:
   #- Руководство администратора: admin_guide/lorem.md
 
 theme: 
-  name: material
+  name: readthedocs
+  #material
