@@ -7,7 +7,7 @@ nav:
     - Добавить Обращение: howto/leads/new_lead.md
     - Добавить Компанию: howto/organizations/new_org.md
     - Добавить Контакт: howto/contacts/new_contact.md
-    - Быстрое меню Создать: howto/others/fast_create.md
+    #- Быстрое меню Создать: howto/others/fast_create.md
     #- Изменить информацию о Компании: howto/organizations/edit_org.md
     #- Изменить Контакт: howto/contacts/edit_contact.md
     - Внесение изменений: howto/others/edit.md

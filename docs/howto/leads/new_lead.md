@@ -2,19 +2,33 @@
 
 <p align="justify">Перейдите на страницу "Сделки", для этого в левой части экрана укажите мышью на значок <img src="../../images/main_menu/pict_deals_short.png" style="width: 20px; height: 20px; vertical-align: middle;"/> и выберите <img src="../../images/main_menu/pict_deals_full.png" style="width: 100px; height: 20px; vertical-align: middle;"/>   в Главном меню приложения.
 </p>
+
 <hr>
-<p align="justify">Нажмите кнопку "Создать сделку" на панели инструментов</p>
+
+<p align="justify">Нажмите кнопку "Создать сделку" на панели инструментов
+<br>
 <img src="../../images/deals_page/deals_toolbar.png" style="max-width:100%;max-height:100%;"/>
-<p align="justify">При создании Cделки потребуется указать заказчика, а так же, возможно, партнера и дистрибьютора. Если информация об организации отсутствует в CRM перейдите на страницу  <img src="../../images/main_menu/pict_company_full.png" style="width: 100px; height: 20px; vertical-align: middle;"/> и создайте новую запись, затем вернитесь на страницу cделки.
 </p>
+
+<p align="justify">При создании Cделки потребуется указать заказчика, партнера или дистрибьютора. Если информация об организации отсутствует в CRM перейдите на страницу  <img src="../../images/main_menu/pict_company_full.png" style="width: 100px; height: 20px; vertical-align: middle;"/> и создайте новую запись, затем вернитесь на страницу cделки.
+</p>
+
 <hr>
+
 <p align="justify">
 В любой момент нажмите кнопку "Сохранить данные" на панели инструментов чтобы сохранить сделанные изменения. 
 <br>
 <img src="../../images/company_page/company_save_data.png" style="max-width:100%;max-height:100%;"/>
 </p>
 
+<br/>
+<b>Поля сделки</b>
+
 <table style="table-layout:fixed;width: 100%;border: none;">
+    <colgroup>
+        <col style="width: 20%;">
+        <col style="width: 80%;">
+    </colgroup>
 <tr>
     <td style="vertical-align: middle;">
     <img src="../../images/deals_page/deal_name.png" >

@@ -4,7 +4,7 @@
 Перейдите на страницу "Контакт", для этого в левой части экрана укажите мышью на значок  <img src="../../images/main_menu/pict_contacts_short.png" style="width: 20px; height: 20px; vertical-align: middle;"/>  и выберите  <img src="../../images/main_menu/pict_contacts_full.png" style="width: 100px; height: 20px; vertical-align: middle;"/>  в Главном меню приложения.
 </p>
 
----
+<hr/>
 
 <p align="justify">
 Нажмите кнопку "Создать контакт" на панели инструментов. 
@@ -12,7 +12,7 @@
 <img src="../../images/contacts_page/contact_create.png" style="max-width:100%;max-height:100%;"/>
 </p>
 
----
+<hr/>
 
 <p align="justify">
 В любой момент нажмите кнопку "Сохранить данные" на панели инструментов чтобы сохранить сделанные изменения. 
@@ -20,8 +20,14 @@
 <img src="../../images/contacts_page/contact_save_data.png" style="max-width:100%;max-height:100%;"/>
 </p>
 
+<br/>
+<b>Поля контакта</b>
 
 <table style="border:none;">
+    <colgroup>
+        <col style="width: 20%;">
+        <col style="width: 80%;">
+    </colgroup>
 <tr>
     <td style="vertical-align: middle;">
     <img src="../../images/contacts_page/contact_last_name.png" style="max-width:100%;max-height:100%; vertical-align: middle;"/>
